@@ -57,6 +57,46 @@
       \verb https://books.google.ch/books?id=aKoKAQAAMAAJ
       \endverb
     \endentry
+    \entry{ismay1938}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b671373f16c038178175bde7ec0e98ff}{%
+           family={Ismay},
+           familyi={I\bibinitperiod},
+           given={Hastings},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b671373f16c038178175bde7ec0e98ff}
+      \strng{fullhash}{b671373f16c038178175bde7ec0e98ff}
+      \strng{bibnamehash}{b671373f16c038178175bde7ec0e98ff}
+      \strng{authorbibnamehash}{b671373f16c038178175bde7ec0e98ff}
+      \strng{authornamehash}{b671373f16c038178175bde7ec0e98ff}
+      \strng{authorfullhash}{b671373f16c038178175bde7ec0e98ff}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Note from General Ismay to the British Cabinet}
+      \field{year}{1938}
+    \endentry
+    \entry{muenchen_ende_altes_europa}{inproceedings}{}
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {Essen}%
+      }
+      \list{publisher}{1}{%
+        {Reimar Hobbing}%
+      }
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3920460553}
+      \field{title}{München 1938 : das Ende des alten Europa}
+      \field{year}{1990 - 1990}
+      \keyw{Münchener Abkommen}
+    \endentry
     \entry{prime_minister_statement_common_sittings_european_situation}{misc}{}
       \list{publisher}{1}{%
         {UK Parliament}%
