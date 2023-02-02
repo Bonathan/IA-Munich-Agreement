@@ -891,6 +891,12 @@ INPUT .\main.out
 INPUT .\main.out
 OUTPUT main.out
 INPUT C:\Users\bittn\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT ..\.\images\TITLE_IMG.jpg
+INPUT ..\.\images\TITLE_IMG.jpg
+INPUT ..\.\images\TITLE_IMG.jpg
+INPUT ..\.\images\TITLE_IMG.jpg
+INPUT ..\.\images\TITLE_IMG.jpg
+INPUT ..\.\images\TITLE_IMG.jpg
 INPUT C:\Users\bittn\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\bittn\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\bittn\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm

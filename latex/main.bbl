@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{anyt/global//global/global}
+    \entry{times2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c5d8467b0865e3adbaedf4307e49e28b}{%
+           family={Caquet},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5d8467b0865e3adbaedf4307e49e28b}
+      \strng{fullhash}{c5d8467b0865e3adbaedf4307e49e28b}
+      \strng{bibnamehash}{c5d8467b0865e3adbaedf4307e49e28b}
+      \strng{authorbibnamehash}{c5d8467b0865e3adbaedf4307e49e28b}
+      \strng{authornamehash}{c5d8467b0865e3adbaedf4307e49e28b}
+      \strng{authorfullhash}{c5d8467b0865e3adbaedf4307e49e28b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Times}
+      \field{month}{9}
+      \field{title}{What the British and the French Actually Thought About the Decision to Appease Hitler at Munich in 1938}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://time.com/5684506/munich-appeasement/
+      \endverb
+      \verb{url}
+      \verb https://time.com/5684506/munich-appeasement/
+      \endverb
+    \endentry
     \entry{chamberlain_neville_2000}{book}{}
       \name{author}{2}{}{%
         {{hash=7d3a6f777b8938b02cc4bc7551ef6588}{%
@@ -96,6 +125,20 @@
       \field{title}{München 1938 : das Ende des alten Europa}
       \field{year}{1990 - 1990}
       \keyw{Münchener Abkommen}
+    \endentry
+    \entry{munich_agreement_1938}{misc}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{WikiMedia Commons}
+      \field{title}{Munich Agreement (Münchener Abkommen) 1938-09-30 Neville Chamberlaine Showing the Anlo-German Declaration (“Peace for our time”). Heston Aerodrome, West of London, England. Narodowe Archiwum Cyfrowe 3 1 0 5 268 3 1 111334 No Known Cop.}
+      \field{year}{1938}
+      \verb{urlraw}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Munich_Agreement_%28M%C3%BCnchener_Abkommen%29_1938-09-30_Neville_Chamberlaine_showing_the_Anlo-German_declaration_%28%22Peace_for_our_time%22%29._Heston_Aerodrome%2C_west_of_London%2C_England._Narodowe_Archiwum_Cyfrowe_3_1_0_5_268_3_1_111334_No_known_cop.jpg/800px-thumbnail.jpg?20211005111528
+      \endverb
+      \verb{url}
+      \verb https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Munich_Agreement_%28M%C3%BCnchener_Abkommen%29_1938-09-30_Neville_Chamberlaine_showing_the_Anlo-German_declaration_%28%22Peace_for_our_time%22%29._Heston_Aerodrome%2C_west_of_London%2C_England._Narodowe_Archiwum_Cyfrowe_3_1_0_5_268_3_1_111334_No_known_cop.jpg/800px-thumbnail.jpg?20211005111528
+      \endverb
     \endentry
     \entry{prime_minister_statement_common_sittings_european_situation}{misc}{}
       \list{publisher}{1}{%

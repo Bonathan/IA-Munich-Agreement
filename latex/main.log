@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.7)  1 FEB 2023 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.7)  2 FEB 2023 23:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -845,9 +845,14 @@ Package hyperref Info: Link coloring OFF on input line 69.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+<.././images/TITLE_IMG.jpg, id=43, 803.0pt x 572.1375pt>
+File: .././images/TITLE_IMG.jpg Graphic file (type jpg)
+<use .././images/TITLE_IMG.jpg>
+Package pdftex.def Info: .././images/TITLE_IMG.jpg  used on input line 131.
+(pdftex.def)             Requested size: 266.14978pt x 189.63531pt.
  [1
 
-{C:/Users/bittn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc
+{C:/Users/bittn/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <.././images/TITLE_IMG.jpg>] (main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\bittn\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -864,40 +869,80 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.145 \newpage
-               [1]
-Underfull \hbox (badness 10000) in paragraph at lines 151--153
+               [1] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 182--187
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 189--194
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--187
 
  []
 
-[3] [4] [5]
-Overfull \hbox (1.62155pt too wide) in paragraph at lines 243--243
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--220
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--238
+
+ []
+
+[5] [6]
+Overfull \hbox (1.62155pt too wide) in paragraph at lines 241--241
 \OT1/cmr/m/n/10 ger. Berichte und Stu-dien der Hanns-Seidel-Stiftung 9. M^^?unchen: G. Ol-zog, 1976. \OT1/cmr/m/sc/10 isbn\OT1/cmr/m/n/10 : 3789298034. 
  []
 
-[6] (main.aux)
+[7] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C01DC740CB8D502592D236AEA2D6B420;1884.
+(rerunfilecheck)             Checksum: 3395F46529E7830BDCC23142C7D2EF17;1899.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20824 strings out of 477843
- 367438 string characters out of 2823600
- 1119276 words of memory out of 3000000
- 39454 multiletter control sequences out of 15000+600000
+ 20844 strings out of 477843
+ 368022 string characters out of 2823600
+ 1121396 words of memory out of 3000000
+ 39468 multiletter control sequences out of 15000+600000
  472518 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,68p,1407b,1842s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,5n,68p,1399b,1842s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/bittn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bittn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bittn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bittn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bittn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (7 pages, 120051 bytes).
+Output written on main.pdf (8 pages, 220516 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 150 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

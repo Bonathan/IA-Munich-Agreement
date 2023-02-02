@@ -1,11 +1,11 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Identification and evaluation of sources (497 Words)}{2}{section.1}%
+\contentsline {section}{\numberline {1}Identification and evaluation of sources (529 Words)}{2}{section.1}%
 \contentsline {subsection}{\numberline {1.1}The Neville Chamberlain Diary Letters}{2}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Common Sitting, European Situation: Prime Ministers Statement}{2}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Investigation (943 Words)}{3}{section.2}%
+\contentsline {section}{\numberline {2}Investigation (1156 Words)}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Military}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Pacifism}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}Pacifism}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Britain's Public Opinion}{4}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Conclusion}{4}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Reflection (0 Words)}{5}{section.3}%
-\contentsline {section}{\numberline {4}Bibliography}{6}{section.4}%
+\contentsline {subsection}{\numberline {2.4}Conclusion}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Reflection (398 Words)}{5}{section.3}%
+\contentsline {section}{\numberline {4}Bibliography}{7}{section.4}%
